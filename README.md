@@ -79,7 +79,7 @@ Clone this repository to your desired folder:
 👤 **Author1**
 
 - GitHub: [@esm](https://github.com/esmaelhussen)
-- LinkedIn: [esm](https://linkedin.com/in/esmael)
+- LinkedIn: [esm](https://linkedin.com/in/esmaelhussen)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
