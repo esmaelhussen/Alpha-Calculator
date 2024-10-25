@@ -104,7 +104,7 @@ Feel free to check the [issues page](../../issues/).
 If you like this project you can contact me on the below links .....
 
 - GitHub: [@esm](https://github.com/esmaelhussen)
-- LinkedIn: [esm](https://linkedin.com/in/esmael)
+- LinkedIn: [esm](https://linkedin.com/in/esmaelhussen)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
